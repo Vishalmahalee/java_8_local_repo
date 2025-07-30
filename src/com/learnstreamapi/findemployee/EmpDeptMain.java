@@ -5,9 +5,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-
-
-
+// Find one employee from each department who is getting the highest salary within his department
 public class EmpDeptMain {
     public static void main(String[] args) {
 
@@ -20,10 +18,15 @@ public class EmpDeptMain {
         );
 
         // sort on age
-        empDept
+        Stream<EmpDept> sorted = empDept
                 .stream()
-                .sorted(Comparator.comparing(EmpDept::getBirth).reversed())
-                .forEach(System.out::println);
+                .sorted(Comparator.comparing(EmpDept::getBirth).reversed());
+        System.out.println(sorted);
+
+       empDept
+                .stream()
+                .sorted(Comparator.comparing(EmpDept::getName).reversed())
+                        .forEach(System.out::println);
 
         System.out.println("sorted on age");
         System.out.println();
