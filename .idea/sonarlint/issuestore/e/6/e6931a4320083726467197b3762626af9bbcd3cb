@@ -1,0 +1,22 @@
+
+f
+java:S3655."PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(äÎÂÃ
+f
+java:S3655)"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¢”‰‚
+N	java:S106"9Replace this use of System.out or System.err by a logger.(» ±ˆ
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ôë‡àýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ù°È
+m
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‡Î–·øÿÿÿÿ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(˜íí
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(£÷É¡
+X
+java:S1612)"BReplace this lambda with method reference 'Comparable::compareTo'.(¢”‰‚
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Å¶áç
+X
+java:S1612."BReplace this lambda with method reference 'Comparable::compareTo'.(äÎÂÃ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(Â¨Ã(
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

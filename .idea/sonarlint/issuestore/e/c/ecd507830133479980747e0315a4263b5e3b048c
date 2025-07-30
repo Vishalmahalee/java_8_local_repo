@@ -1,0 +1,19 @@
+
+C
+java:S1604"(Make this anonymous inner class a lambda(Ü›Ë™üÿÿÿÿ
+C
+java:S1604"(Make this anonymous inner class a lambda(ÞÊï•üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’úÃ¸üÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(ÑÇâÝüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŠÎíüÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÉŒÝµúÿÿÿÿ
+B
+java:S1481"'Remove this unused "in" local variable.(ÞÊï•üÿÿÿÿ
+A
+java:S1602"",Remove useless curly braces around statement(Â†”x
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÇÆÓ‚üÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒŸû¥
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ðË«ˆÿÿÿÿÿ
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(Õ… ò
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(à…ªÀøÿÿÿÿ
